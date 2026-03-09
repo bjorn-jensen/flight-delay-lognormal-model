@@ -110,3 +110,8 @@ The delay distribution is strongly right-skewed with a heavy tail.
 
 Rare large delays substantially increase the mean delay.
 
+## Distribution of arrival delays
+
+![Delay distribution](delay_distribution.png)
+
+
