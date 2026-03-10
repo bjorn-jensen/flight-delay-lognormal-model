@@ -115,3 +115,7 @@ Rare large delays substantially increase the mean delay.
 ![Delay distribution](delay_distribution.png)
 
 
+Mathematical derivation
+See the mathematical derivation in [docs/statistical_model.md](docs/statistical_model.md).
+
+
